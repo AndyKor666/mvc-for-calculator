@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mvc for calculator", "mvc for calculator\mvc for calculator.pyproj", "{0F97794D-FC46-4B0A-B5A2-543F8F1A7203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F97794D-FC46-4B0A-B5A2-543F8F1A7203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F97794D-FC46-4B0A-B5A2-543F8F1A7203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3A0B2DB-FA6B-4DEE-8A2A-D41BF4F1A9B2}
+	EndGlobalSection
+EndGlobal
